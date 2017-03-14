@@ -1,7 +1,6 @@
 " Vim Syntax file
 " Language: X12 EDI files
 " Filenames: *.x12
-" Kutos to ranjith chandran via http://www.vim.org/scripts/script.php?script_id=1625
 
 syntax clear
 "syntax case ignore
