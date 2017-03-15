@@ -7,7 +7,7 @@ syntax clear
 
 " X12 keywords
 syntax keyword X12Keyword ISA 
-syntax keyword X12Keyword SVC 
+syntax keyword X12Keyword SVC
 syntax keyword X12Keyword BPR 
 syntax keyword X12Keyword DTM 
 syntax keyword X12Keyword LX1 
@@ -17,6 +17,7 @@ syntax keyword X12Keyword CAS
 syntax keyword X12Keyword GS 
 syntax keyword X12Keyword AK
 syntax keyword X12Keyword ST
+syntax keyword x12Keyword BGN
 syntax keyword X12Keyword BHT
 syntax keyword X12Keyword NM1
 syntax keyword X12Keyword REF
@@ -28,6 +29,7 @@ syntax keyword X12Keyword PER
 syntax keyword X12Keyword PRV
 syntax keyword X12Keyword TRN
 syntax keyword X12Keyword DMG
+syntax keyword x12Keyword HD
 syntax keyword X12Keyword DTP
 syntax keyword X12Keyword EQ
 syntax keyword X12Keyword AMT

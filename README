@@ -1,5 +1,5 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=1625
+Original Script: http://www.vim.org/scripts/script.php?script_id=1625
 
 A simple syntax highlighter for EDI X12 files -
 It does not validate the correctness of X12s. Just highlights the file. 
-Currently only Healthcare 270/271s are tested.
+Currently only Healthcare 270/271/834s are tested.
